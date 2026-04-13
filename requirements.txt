@@ -1,0 +1,4 @@
+pycryptodome==3.19.1
+
+# Optional GPU acceleration
+# pyopencl==2024.1
